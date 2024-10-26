@@ -9,7 +9,7 @@ Computer Science Engineering Student
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   ### I code in
-  <img height="50" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 
   ### IDE and Tools I Use
 
