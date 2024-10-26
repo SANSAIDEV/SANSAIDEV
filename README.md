@@ -3,7 +3,7 @@
 Computer Science Engineering Student
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Web Development
-- I’m looking for help with Placement in JAVA
+- 👬 I’m looking for help with Placement in JAVA
 - 📫 How to reach me :
   <br/>https://www.linkedin.com/in/sansaidev13/
   ### I code in
