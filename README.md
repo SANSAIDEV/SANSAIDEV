@@ -11,7 +11,7 @@ Computer Science Engineering Student
 
   ### IDE and Tools I Use
   <img width="50" height="50" src="https://img.icons8.com/offices/30/java-eclipse.png" alt="java-eclipse"/>
-  ### LeetCode Problems
+  
   ![LeetCode Stats](https://leetcode.card.workers.dev/SANSAI_A?theme=dark&font=baloo&extension=null)
 
 <!---
