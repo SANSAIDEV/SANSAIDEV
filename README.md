@@ -8,9 +8,7 @@ Computer Science Engineering Student
   <br/>https://www.linkedin.com/in/sansaidev13/
   ### I code in
   <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-  {
-  delimiters: ' '
-}
+
 
   <img width="50" height="50" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 
