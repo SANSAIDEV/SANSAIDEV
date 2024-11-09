@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Sansai
 
 Computer Science Engineering Student
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning JDBC
 - 💞️ I’m looking to collaborate on Web Development
 - 💻  I’m looking for help with Placement in JAVA
 - 📫 How to reach me :
